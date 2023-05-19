@@ -13,7 +13,7 @@ yesterday = (current_date - timedelta(days=1)).strftime("%Y-%m-%d")
 API_KEY = ""
 
 # Set your TMetric account, user, and other details
-ACCOUNT_ID = 132260
+ACCOUNT_ID = 0
 USER_ID = 0
 
 # Work hours and minutes per day
